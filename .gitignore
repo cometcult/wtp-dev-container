@@ -1,0 +1,4 @@
+/wtp-www
+/wtp-server
+.vagrant
+Vagrantfile
